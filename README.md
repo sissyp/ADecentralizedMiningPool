@@ -20,7 +20,7 @@ mining pools violate the decentralization principle of
 blockchain technology as miners should trust the pool
 manager that the revenues would be fairly shared
 among members.
-In this project1
+In this project
 , we propose a solution that leverages smart contracts in order to fairly distribute the
 revenues from mining a block among the members
 of a mining pool. By leveraging Ethereum smart
