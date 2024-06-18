@@ -29,7 +29,3 @@ by the pool, will be shared accordingly to the number of shares they submitted. 
 immutable, meaning that a miner cannot alter the
 shares of another one and transparent, as they define the rules of how the rewards will be distributed,
 which are visible to all participants.
-
-
-You can view more details about the project here:
-[A_decentralized_mining_pool.pdf](https://github.com/sissyp/ADecentralizedMiningPool/files/11032028/A_decentralized_mining_pool.pdf)
